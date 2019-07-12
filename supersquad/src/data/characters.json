@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "name": "Iron Man",
+    "strength": 10,
+    "intelligence": 10,
+    "speed": 9
+  },
+  {
+    "id": 1,
+    "name": "Captain America",
+    "strength": 7,
+    "intelligence": 10,
+    "speed": 6
+  },
+  {
+    "id": 2,
+    "name": "Hulk",
+    "strength": 10,
+    "intelligence": 9,
+    "speed": 5
+  },
+  {
+    "id": 3,
+    "name": "Thor",
+    "strength": 5,
+    "intelligence": 6,
+    "speed": 10
+  },
+  {
+    "id": 4,
+    "name": "Black Widow",
+    "strength": 7,
+    "intelligence": 8,
+    "speed": 7
+  },
+  {
+    "id": 5,
+    "name": "Hawkeye",
+    "strength": 8,
+    "intelligence": 7,
+    "speed": 8
+  },
+  {
+    "id": 6,
+    "name": "War machine",
+    "strength": 9,
+    "intelligence": 8,
+    "speed": 6
+  },
+  {
+    "id": 7,
+    "name": "Antman",
+    "strength": 5,
+    "intelligence": 9,
+    "speed": 7
+  },
+  {
+    "id": 8,
+    "name": "Captain Marvel",
+    "strength": 5,
+    "intelligence": 8,
+    "speed": 8
+  },
+  {
+    "id": 9,
+    "name": "Rocket",
+    "strength": 10,
+    "intelligence": 9,
+    "speed": 7
+  }
+]
